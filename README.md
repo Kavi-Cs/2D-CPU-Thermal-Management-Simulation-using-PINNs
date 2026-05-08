@@ -64,4 +64,4 @@ A verification plot showing how heat dissipates from the center over the time di
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/your-username/PINN-CPU-Thermal-Simulation.git](https://github.com/your-username/PINN-CPU-Thermal-Simulation.git)
+   git clone [https://github.com/your-username/PINN-CPU-Thermal-Simulation.git](https://github.com/Kavi-Cs)/PINN-CPU-Thermal-Simulation.git)
