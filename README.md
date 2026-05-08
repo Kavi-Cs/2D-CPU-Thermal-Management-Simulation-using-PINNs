@@ -1,0 +1,1 @@
+# 2D-CPU-Thermal-Management-Simulation-using-PINNs
